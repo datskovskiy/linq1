@@ -183,8 +183,7 @@ namespace Linq.Tests
         #endregion
 
         #region Middle
-        // UNCOMMENT TO CHECK MIDDLE PART
-        /*
+
         [Test]
         public void Task6Test()
         {
@@ -337,13 +336,10 @@ namespace Linq.Tests
                 stringList: new[] { "star", "galaxy", "quasar", "planet", "asteroid", "satellite", "comet" },
                 expected: new[] { "YTR", "D", "T", "E", "R" });
         }
-        */
 
         #endregion
 
         #region Advance
-        // UNCOMMENT TO CHECK ADVANCED PART
-        /*
         [Test]
         public void Task11Test()
         {
@@ -688,7 +684,6 @@ namespace Linq.Tests
                         new CountryStat{Country = "Ukraine", MinPrice = 1.20M, StoresNumber = 7},
                     });
         }
-         */
 
         #endregion
 
